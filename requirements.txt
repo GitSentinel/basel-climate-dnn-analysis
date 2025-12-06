@@ -1,0 +1,12 @@
+#TASK 1
+pandas
+numpy
+matplotlib
+scikit-learn
+
+#TASK 2
+torch
+torchvision
+Pillow
+transformers
+timm
